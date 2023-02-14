@@ -12,7 +12,7 @@ header {
   
 }
 .backg{
-  background-image: url('./backweb3.png');
+  background-image: url('backweb3.png');
   background-repeat: no-repeat;
   background-size: cover; 
   height: auto;
